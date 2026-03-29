@@ -1,11 +1,10 @@
 # goto-sibling.yazi
 
-Jump to the previous or next sibling directory of the current folder in Yazi.
+Jump to the previous or next sibling directory of the current folder in [Yazi][].
 
 ## Requirements
 
 - Yazi `25.5.28` or newer
-- No external dependencies
 
 ## Installation
 
@@ -44,3 +43,6 @@ and does nothing if no matching sibling directory exists.
 ## License
 
 This plugin is MIT-licensed. See the [LICENSE](LICENSE) file.
+
+
+[Yazi]: https://github.com/sxyazi/yazi
