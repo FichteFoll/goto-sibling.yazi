@@ -1,4 +1,4 @@
---- @since 26.1.22
+--- @since 25.5.28
 --- @sync entry
 
 local DIRECTIONS = {
