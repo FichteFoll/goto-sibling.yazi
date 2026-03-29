@@ -38,7 +38,8 @@ desc = "Go to the next sibling folder"
 - `plugin goto-sibling -- next --wrap`: jump to the next sibling directory, wrapping to the start if necessary
 - `plugin goto-sibling -- prev --wrap`: jump to the previous sibling directory, wrapping to the end if necessary
 
-The plugin skips non-directory entries and does nothing if no matching sibling directory exists.
+The plugin skips non-directory entries (`mgr.sort_dir_first = false`)
+and does nothing if no matching sibling directory exists.
 
 ## License
 
