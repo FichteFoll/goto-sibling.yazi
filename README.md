@@ -19,12 +19,12 @@ so you need to bind it in `~/.config/yazi/keymap.toml`:
 
 ```toml
 [[mgr.prepend_keymap]]
-on = [ "[" ]
+on = [ "<A-k>" ]
 run = "plugin goto-sibling -- prev"
 desc = "Go to the previous sibling folder"
 
 [[mgr.prepend_keymap]]
-on = [ "]" ]
+on = [ "<A-j>" ]
 run = "plugin goto-sibling -- next"
 desc = "Go to the next sibling folder"
 ```
