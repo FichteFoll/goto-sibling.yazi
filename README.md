@@ -9,7 +9,7 @@ Jump to the previous or next sibling directory of the current folder in [Yazi][]
 ## Installation
 
 ```bash
-ya pkg install FichteFoll/goto-sibling.yazi
+ya pkg add FichteFoll/goto-sibling
 ```
 
 ## Configuration
